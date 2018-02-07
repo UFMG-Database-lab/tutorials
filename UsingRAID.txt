@@ -1,0 +1,19 @@
+We got two RAID servers in our lab.
+
+batan.lbd.dcc.ufmg.br
+sumatra.lbd.dcc.ufmg.br
+
+The RAID is configured in the /RAID directory in both of them. 
+We recomment to upload your important stuff to these directories ASAP!!
+
+In order to copy some directory from your machine to one raid, use the following
+command:
+
+rsync -Cravpe ssh your_directory lbduser@batan.lbd.dcc.ufmg.br:/RAID/your_name
+
+example:
+local_machine$ ls
+dir1/     dir2/
+local_machine$ rsync -Cravpe ssh dir1 lbduser@batan.lbd.dcc.ufmg.br:/RAID/joao
+
+  
