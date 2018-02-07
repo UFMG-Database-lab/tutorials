@@ -1,11 +1,17 @@
 Steps to use GitHub on Graphical Interface:
 
+1) set your e-mail and username:
+$  git config --global user.email "you@example.com"
+$  git config --global user.name "username"
 
-1) Install the application git-cola
+2) Install the application git-cola
 $ sudo apt-get install git-cola
-2) open the application:
+
+3) open the application:
 $ git-cola
-3) If it is your first time, click on the button "CLONE", and use a
+
+4) If it is your first time, click on the button "CLONE", and use a
 the repository address (ex.: http://github.com/UFMG-Database-lab/tutorials.git )
 and select a local diretory to download the github repository
-4) Edit the local repository, click in file, refresh and commit the changes.
+
+5) Edit the local repository, click in file, refresh and commit the changes.
