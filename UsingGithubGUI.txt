@@ -23,3 +23,6 @@ in the local direcoties)
 
 8) Write a commint summary of the changes and click on "Commit"
 
+9) Click on the Actions Menu
+
+10) Click on Push
