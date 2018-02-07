@@ -23,4 +23,3 @@ in the local direcoties)
 
 8) Write a commint summary of the changes and click on "Commit"
 
-
