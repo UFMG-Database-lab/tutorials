@@ -14,4 +14,12 @@ $ git-cola
 the repository address (ex.: http://github.com/UFMG-Database-lab/tutorials.git )
 and select a local diretory to download the github repository
 
-5) Edit the local repository, click in file, refresh and commit the changes.
+5) Edit the local repository (include new files, remove files and edit files
+in the local direcoties)
+
+6) click on "File" and then "Refresh"
+
+7) In the "status" area, click on the modifications.
+
+8) Write a commint summary of the changes and click on "Commit"
+
